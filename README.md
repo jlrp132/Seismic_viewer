@@ -1,6 +1,9 @@
 # Seismic_viewer
 Seismic viewer based on yohanesnuwara repo <br>
 https://github.com/yohanesnuwara/computational-geophysics <br>
+<br>
+Added time range widget<br>
+Modified layout<br>
 
-TO DO:
-add gain control
+TO DO:<br>
+- add gain control
